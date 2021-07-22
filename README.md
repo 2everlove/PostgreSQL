@@ -4,8 +4,8 @@
 <h2>Why learn PostgreSQL</h2>
 <p><b>Answer</b>
 <ul>
- <li>Transaction(Atomicity, Consistency, Isolation, Durability)</li>
- <li>Various Platforms(Mac, Windosws, Unix, Linux)</li>
+ <li>Transaction ( Atomicity, Consistency, Isolation, Durability )</li>
+ <li>Various Platforms ( Mac, Windosws, Unix, Linux )</li>
  <li>Open Source Licenses ( BSD:o / GPL:x )</li>
 </ul>
  </p>
