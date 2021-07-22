@@ -6,7 +6,7 @@
 <ul>
  <li>Transaction(Atomicity, Consistency, Isolation, Durability)</li>
  <li>Various Platforms(Mac, Windosws, Unix, Linux)</li>
- <li>Open Source Licenses(BSD:o / GPL:x)</li>
+ <li>Open Source Licenses ( BSD:o / GPL:x )</li>
 </ul>
  </p>
  <hr>
